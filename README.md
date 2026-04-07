@@ -1,4 +1,4 @@
-# 🧠 Smart Q&A API - E-commerce Support System
+[Smart-AI-_API_Testing_Doc.pdf](https://github.com/user-attachments/files/26534668/Smart-AI-_API_Testing_Doc.pdf)# 🧠 Smart Q&A API - E-commerce Support System
 
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-Backend-black?logo=express)](https://expressjs.com/)
@@ -30,6 +30,14 @@ The system includes authentication, rate limiting, structured responses, and que
 - 📜 **Request Logging** – Morgan middleware  
 - ❌ **Error Handling** – Global handler (no stack traces in production)  
 - 🕓 **Query History** – View last 10 Q&As per user  
+
+---
+
+## 📄 API Testing Report
+
+A detailed API testing document (including authentication, error handling, and rate limiting validation) is available below:
+
+👉  [Smart-AI-_API_Testing_Doc.pdf](https://github.com/user-attachments/files/26534712/Smart-AI-_API_Testing_Doc.pdf)
 
 ---
 
