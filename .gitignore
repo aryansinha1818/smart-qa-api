@@ -1,0 +1,102 @@
+<<<<<<< HEAD
+# =========================
+# 🔐 ENV FILES (IMPORTANT)
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# 📦 NODE MODULES (MERN)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# ⚙️ BUILD FILES (React)
+# =========================
+build/
+dist/
+.next/
+out/
+
+# =========================
+# 🧪 TEST / COVERAGE
+# =========================
+coverage/
+.nyc_output/
+
+# =========================
+# 🧾 LOG FILES
+# =========================
+logs/
+*.log
+
+# =========================
+# 🐍 PYTHON (LangChain / FastAPI)
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# =========================
+# 📊 JUPYTER / NOTEBOOKS
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# 🧠 AI / VECTOR DB FILES
+# =========================
+*.faiss
+*.pkl
+*.pickle
+chroma/
+.vectorstore/
+
+# =========================
+# 🖥️ OS FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🧰 IDE / EDITOR
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# 🚀 DEPLOYMENT
+# =========================
+.vercel/
+.netlify/
+
+# =========================
+# 🐳 DOCKER (optional)
+# =========================
+*.tar
+docker-compose.override.yml
+
+# =========================
+# 🔒 SECRET KEYS / CONFIG
+# =========================
+config/secrets.json
+secrets.yml
+*.pem
+*.key
+=======
+node_modules
+>>>>>>> 805fd0f (code-data-added)
